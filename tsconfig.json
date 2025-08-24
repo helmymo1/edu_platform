@@ -17,6 +17,7 @@
 		"baseUrl": ".",
 		"esModuleInterop": true,
 		"verbatimModuleSyntax": true,
+		"allowJs": true,
 		"noEmit": true,
 		"resolveJsonModule": true,
 		"skipLibCheck": true,
